@@ -1,1 +1,1 @@
-# Repository for Web Scraping Project
+# Repository for Userlog Profiling Project
